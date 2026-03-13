@@ -1,0 +1,14 @@
+PROJECT_NAME           = "lorenzattractor"
+PROJECT_NUMBER         = "1.0"
+OUTPUT_DIRECTORY       = doc
+INPUT                  = include src
+RECURSIVE              = YES
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+FILE_PATTERNS          = *.hxx *.cxx *.hpp *.cpp *.h
+QUIET                  = NO
+WARNINGS               = YES

@@ -1,0 +1,24 @@
+Analyse du projet lorenzattractor
+================================
+
+Auteur(s): Hyuse & T2
+
+Objectif
+--------
+Description du problème et des objectifs du TP.
+
+Conception
+----------
+Description des choix de conception, structures de données, algorithmes utilisés.
+
+Difficultés rencontrées
+-----------------------
+Décrire les difficultés rencontrées et comment elles ont été résolues.
+
+Tests
+-----
+Description des tests effectués et des résultats.
+
+Conclusion
+----------
+Bilan du travail effectué.
