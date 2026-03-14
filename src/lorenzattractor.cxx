@@ -18,3 +18,4 @@ Lorenzattractor::~Lorenzattractor() {
 void Lorenzattractor::hello() const {
     std::cout << "Hello from lorenzattractor!" << std::endl;
 }
+
