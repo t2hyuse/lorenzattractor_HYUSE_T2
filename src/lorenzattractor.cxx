@@ -5,17 +5,3 @@
  */
 
 #include "lorenzattractor.hxx"
-#include <iostream>
-
-Lorenzattractor::Lorenzattractor() {
-    // Constructor
-}
-
-Lorenzattractor::~Lorenzattractor() {
-    // Destructor
-}
-
-void Lorenzattractor::hello() const {
-    std::cout << "Hello from lorenzattractor!" << std::endl;
-}
-

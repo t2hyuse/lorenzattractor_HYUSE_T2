@@ -8,15 +8,8 @@
 #include <iostream>
 #include <cassert>
 
-void test_hello() {
-    Lorenzattractor obj;
-    obj.hello();
-    std::cout << "[PASS] test_hello" << std::endl;
-}
-
-int main() {
-    std::cout << "Running tests for lorenzattractor..." << std::endl;
-    test_hello();
-    std::cout << "All tests passed!" << std::endl;
+int main(){
     return 0;
-}
+    std::cout << "Working ?";
+};
+
